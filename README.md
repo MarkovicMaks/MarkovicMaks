@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MarkovicMaks
+- 👀 I’m interested in Frontend
+- 🌱 I’m currently learning React
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: ...
